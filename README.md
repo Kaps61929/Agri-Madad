@@ -19,6 +19,7 @@ Agri Madad is an agriculture app that aims to assist farmers in addressing irrig
 
 
 ## Screenshots
+<p float="left">
 ![467514a5-d7bb-4e14-abbc-a0b80ab6a235](https://user-images.githubusercontent.com/115138974/235730286-71b6ac4a-04d3-4f20-9110-170d20eafaf3.jpg)
 ![e4a74de2-4775-4351-ae54-d5608f8b6e48](https://user-images.githubusercontent.com/115138974/235730351-1b4802f0-3a64-42d3-af84-e5704faebe23.jpg)
 ![52ce3b09-3e12-4637-8e8b-2fa607efa82a](https://user-images.githubusercontent.com/115138974/235730390-97bd641e-6eff-4bdd-84c9-53df3d587338.jpg)
@@ -27,7 +28,7 @@ Agri Madad is an agriculture app that aims to assist farmers in addressing irrig
 ![e82462de-6fe2-4bb6-a5ff-93539f2c2413](https://user-images.githubusercontent.com/115138974/235730535-02db0d66-0814-41ca-a524-57e1ae076965.jpg)
 ![d322e121-6155-4867-af67-04![22d4f3b3-895d-4b90-96cf-6fdbefbef973](https://user-images.githubusercontent.com/115138974/235730599-5fa92f33-c967-49ca-a7b1-9be7830347ab.jpg)
 
-
+ </p>
 
 
 
