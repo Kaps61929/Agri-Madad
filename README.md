@@ -10,6 +10,18 @@ Agri Madad is an agriculture app that aims to assist farmers in addressing irrig
 - Water Reqirement Prediction
 
 
+## Screenshots
+<p float="left">
+<img src="https://user-images.githubusercontent.com/115138974/235730286-71b6ac4a-04d3-4f20-9110-170d20eafaf3.jpg" height ="400" width ="200">
+<img src="https://user-images.githubusercontent.com/115138974/235730351-1b4802f0-3a64-42d3-af84-e5704faebe23.jpg" height ="400" width ="200">
+<img src="https://user-images.githubusercontent.com/115138974/235730390-97bd641e-6eff-4bdd-84c9-53df3d587338.jpg" height ="400" width ="200">
+<img src="https://user-images.githubusercontent.com/115138974/235730425-4c3d297d-52f1-4eb8-90d9-c15cd1fb8bd8.jpg" height ="400" width ="200">
+<img src="https://user-images.githubusercontent.com/115138974/235730504-98c5cf87-dc36-4de2-8ec5-b525e188fc0b.jpg" height ="400" width ="200">
+<img src="https://user-images.githubusercontent.com/115138974/235730535-02db0d66-0814-41ca-a524-57e1ae076965.jpg" height ="400" width ="200">
+<img src="https://user-images.githubusercontent.com/115138974/235730599-5fa92f33-c967-49ca-a7b1-9be7830347ab.jpg" height ="400" width ="200">
+
+ </p>
+
 ## Demo
 
 
@@ -34,17 +46,6 @@ https://user-images.githubusercontent.com/115138974/235750956-3fb9ed76-3f28-4012
 
 
 
-## Screenshots
-<p float="left">
-<img src="https://user-images.githubusercontent.com/115138974/235730286-71b6ac4a-04d3-4f20-9110-170d20eafaf3.jpg" height ="400" width ="200">
-<img src="https://user-images.githubusercontent.com/115138974/235730351-1b4802f0-3a64-42d3-af84-e5704faebe23.jpg" height ="400" width ="200">
-<img src="https://user-images.githubusercontent.com/115138974/235730390-97bd641e-6eff-4bdd-84c9-53df3d587338.jpg" height ="400" width ="200">
-<img src="https://user-images.githubusercontent.com/115138974/235730425-4c3d297d-52f1-4eb8-90d9-c15cd1fb8bd8.jpg" height ="400" width ="200">
-<img src="https://user-images.githubusercontent.com/115138974/235730504-98c5cf87-dc36-4de2-8ec5-b525e188fc0b.jpg" height ="400" width ="200">
-<img src="https://user-images.githubusercontent.com/115138974/235730535-02db0d66-0814-41ca-a524-57e1ae076965.jpg" height ="400" width ="200">
-<img src="https://user-images.githubusercontent.com/115138974/235730599-5fa92f33-c967-49ca-a7b1-9be7830347ab.jpg" height ="400" width ="200">
-
- </p>
 
 
 
