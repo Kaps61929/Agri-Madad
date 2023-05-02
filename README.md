@@ -26,7 +26,7 @@ Agri Madad is an agriculture app that aims to assist farmers in addressing irrig
 ![00e4efe8-4eb4-4373-83d3-1c436804e151](https://user-images.githubusercontent.com/115138974/235730504-98c5cf87-dc36-4de2-8ec5-b525e188fc0b.jpg)
 ![e82462de-6fe2-4bb6-a5ff-93539f2c2413](https://user-images.githubusercontent.com/115138974/235730535-02db0d66-0814-41ca-a524-57e1ae076965.jpg)
 ![d322e121-6155-4867-af67-04![22d4f3b3-895d-4b90-96cf-6fdbefbef973](https://user-images.githubusercontent.com/115138974/235730599-5fa92f33-c967-49ca-a7b1-9be7830347ab.jpg)
-![22d4f3b3-895d-4b90-96cf-6fdbefbef973](https://user-images.githubusercontent.com/115138974/235730783-1e705e8b-d125-435b-ad85-907028ed06bd.jpg)
+
 
 
 
