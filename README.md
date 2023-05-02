@@ -53,6 +53,8 @@ https://user-images.githubusercontent.com/115138974/235750956-3fb9ed76-3f28-4012
 
 #### Machine learning Model API for predicting water requirement
 https://mlcropirrigation.azurewebsites.net/
+## Machine Learning Model Code
+https://github.com/Kaps61929/Agri-Madad-ML-Model-Code
                           
 ## Tech Stack
 
